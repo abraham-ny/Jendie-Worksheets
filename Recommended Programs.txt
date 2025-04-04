@@ -1,0 +1,44 @@
+                                  \\!//
+                                  (o o)
+------------------------------oOOo-(_)-oOOo------------------------------
+           Windows 11 21H2 16in1 en-US x64 - Integral Edition
+          For bug reports and questions visit http://zone94.com
+=========================================================================
+
+[---------- Recommended Programs ----------]
+
+* Here are a few Windows 11 programs that you might find useful:
+
+(#) VeraCrypt
+* Description: A good open source Disk Encryption Software.
+* Download Link: http://veracrypt.fr
+
+(#) Thunderbird
+* Description: A good open source E-Mail, RSS Reader, Newsgroups and Chat program.
+* Download Link: http://mozilla.org/thunderbird
+
+(#) LibreOffice
+* Description: A open source Office Suite comparable to Microsoft Office.
+* Download Link: http://libreoffice.org
+
+(#) CDBurnerXP
+* Description: A good free CD/DVD/HD-DVD/Blu-ray burning application.
+* Download Link: http://cdburnerxp.se
+
+(#) GIMP
+* Description: A open source image manipulation program.
+* Download Link: http://gimp.org
+
+(#) OpenShot
+* Description: A good free easy open source video editor.
+* Download Link: http://openshot.org
+
+(#) OBS (Open Broadcaster Software)
+* Description: A good open-source cross-platform screencasting and streaming application.
+* Download Link: https://obsproject.com
+
+(#) Linux Reader
+* Description: A free tool to Recover and Access alternative file systems.
+* Download Link: http://diskinternals.com
+
+(#) For more useful Web Links visit the website "http://zone94.com".
